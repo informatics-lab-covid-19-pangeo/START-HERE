@@ -1,3 +1,5 @@
+![](images/sponsors_banner.png)
+
 # Welcome to the Met Office Informatics Lab COVID-19 Pangeo organisation
 
 This organisation is used to manage access to the Met Office Informatics Lab COVID-19 resonse platform. For more information see [our blog post](https://medium.com/informatics-lab/met-office-and-partners-offer-data-and-compute-platform-for-covid-19-researchers-83848ac55f5f).
